@@ -13,3 +13,5 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+//I would like to inform you that while I have successfully implemented the required functionality, I did not have sufficient time to add the CSS. I apologize for //any inconvenience this may cause.
